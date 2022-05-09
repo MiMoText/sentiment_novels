@@ -29,7 +29,7 @@ We utilise the [roman18-corpus](https://github.com/MiMoText/roman18), which cont
 | Bernardin_Paul.txt | 0.12725117663344399      |   0.5880710132890371 |
 | ...| ...       | ... |
 
-The results of the sentiment analysis per novel are stored here : https://github.com/MiMoText/sentiment_novels/tree/main/sentiments/textblob_fr 
+The results of the sentiment analysis per novel using textblob are stored here : https://github.com/MiMoText/sentiment_novels/tree/main/sentiments/textblob_fr 
 
 ## Sentiment scores per text progression
 
