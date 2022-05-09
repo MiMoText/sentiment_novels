@@ -36,6 +36,8 @@ The results of the sentiment analysis per novel are stored here : https://github
 The Sentiment Tool Chain for 18th Century Periodicals allows to extract the sentiment scores per text progression: 
 
 ![Sentiment Analysis](https://github.com/MiMoText/sentiment_novels/blob/main/img/text_progress_sentiment_candide.PNG?raw=true)
+Voltaire's novel Candide (1759) - sentiment scores per text progress
+
 
 ## Licence
 
