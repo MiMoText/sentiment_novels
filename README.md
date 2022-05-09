@@ -20,16 +20,14 @@ We utilise the [roman18-corpus](https://github.com/MiMoText/roman18), which cont
 
 | file |polarity  | subjectivity |
 | :------------ |:---------------:| -----:|
-|Abbes_Voyage.txt'    | -0.030000690498737378 |0.671139971139971 |
-| Anonym_Suzon.txt'   | 0.17621220020855063      |   0.49699339589850516 |
-| zebra stripes | are neat        |    $1 |
-| zebra stripes | are neat        |    $1 |
-| zebra stripes | are neat        |    $1 |
-| zebra stripes | are neat        |    $1 |
-| zebra stripes | are neat        |    $1 |
-| zebra stripes | are neat        |    $1 |
-| zebra stripes | are neat        |    $1 |
-| zebra stripes | are neat        |    $1 |
+|Abbes_Voyage.txt    | -0.030000690498737378 |0.671139971139971 |
+| Anonym_Suzon.txt   | 0.17621220020855063      |   0.49699339589850516 |
+| Beauharnais_Lettres.txt | are neat        |    $1 |
+| Beaumont_Clarice.txt | are neat        |    $1 |
+| Benoist_Elisabeth | are neat        |    $1 |
+| Benouville_Pensees | are neat        |    $1 |
+| Bernardin_Paul | are neat        |    $1 |
+| ...| ...       | ... |
 
 ## Licence
 
