@@ -29,6 +29,8 @@ We utilise the [roman18-corpus](https://github.com/MiMoText/roman18), which cont
 | Bernardin_Paul | 0.12725117663344399      |   0.5880710132890371 |
 | ...| ...       | ... |
 
+The results of the sentiment analysis per novel are stored here : https://github.com/MiMoText/sentiment_novels/tree/main/sentiments/textblob_fr 
+
 ## Licence
 
 Software in this repo, unless specified otherwise, is made available under the MIT license. We don’t claim any copyright or other rights on the metadata. If you use our scripts or results, for example in research or teaching, please reference this repository using the citation suggestion below.
