@@ -22,11 +22,11 @@ We utilise the [roman18-corpus](https://github.com/MiMoText/roman18), which cont
 | :------------ |:---------------:| -----:|
 |Abbes_Voyage.txt    | -0.030000690498737378 |0.671139971139971 |
 | Anonym_Suzon.txt   | 0.17621220020855063      |   0.49699339589850516 |
-| Beauharnais_Lettres.txt | are neat        |    $1 |
-| Beaumont_Clarice.txt | are neat        |    $1 |
-| Benoist_Elisabeth | are neat        |    $1 |
-| Benouville_Pensees | are neat        |    $1 |
-| Bernardin_Paul | are neat        |    $1 |
+| Beauharnais_Lettres.txt | -0.09595917295290354      |   0.6217013888888896 |
+| Beaumont_Clarice.txt | 0.09166666666666666       |    0.657371794871795|
+| Benoist_Elisabeth | 0.01662030789441677     |   0.6651770451770456|
+| Benouville_Pensees | 0.055394797350363754      |   0.6570899470899474 |
+| Bernardin_Paul | 0.12725117663344399      |   0.5880710132890371 |
 | ...| ...       | ... |
 
 ## Licence
