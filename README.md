@@ -31,6 +31,12 @@ We utilise the [roman18-corpus](https://github.com/MiMoText/roman18), which cont
 
 The results of the sentiment analysis per novel are stored here : https://github.com/MiMoText/sentiment_novels/tree/main/sentiments/textblob_fr 
 
+## Sentiment scores per text progression
+
+The Sentiment Tool Chain for 18th Century Periodicals allows to extract the sentiment scores per text progression: 
+
+![Sentiment Analysis](blob:null/ef650145-3606-4b06-842e-4969022fd518?raw=true)
+
 ## Licence
 
 Software in this repo, unless specified otherwise, is made available under the MIT license. We don’t claim any copyright or other rights on the metadata. If you use our scripts or results, for example in research or teaching, please reference this repository using the citation suggestion below.
