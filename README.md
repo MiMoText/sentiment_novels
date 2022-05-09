@@ -35,7 +35,7 @@ The results of the sentiment analysis per novel are stored here : https://github
 
 The Sentiment Tool Chain for 18th Century Periodicals allows to extract the sentiment scores per text progression: 
 
-![Sentiment Analysis](blob:null/ef650145-3606-4b06-842e-4969022fd518?raw=true)
+![Sentiment Analysis]https://github.com/MiMoText/sentiment_novels/blob/main/sentiments/toolchain_18th_century/results/plots/mimotext/Voltaire_Candide_txt_distant.pdf?raw=true)
 
 ## Licence
 
