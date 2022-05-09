@@ -10,7 +10,7 @@ The roman18-corpus of about 100-200 eighteenth-century French novels in full tex
 
 ## An example
 ![Sentiment Analysis](https://raw.githubusercontent.com/MiMoText/sentiment_novels/main/img/sentiments_voltaire_candide.PNG?raw=true)
-Excerpt of Voltaire's novel Candide (1759) tagged with sentiments provided by "[A Sentiment Analysis Tool Chain for 18th Century Periodical](https://gitlab.uni.lu/melusina/vdhd/koncar_sentiment)"
+Excerpt of chapter two of Voltaire's novel Candide (1759) tagged with sentiments provided by "[A Sentiment Analysis Tool Chain for 18th Century Periodical](https://gitlab.uni.lu/melusina/vdhd/koncar_sentiment)"
 
 ## Data 
 
