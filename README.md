@@ -37,7 +37,7 @@ The Sentiment Tool Chain for 18th Century Periodicals allows to extract the sent
 
 ![Sentiment Analysis](https://github.com/MiMoText/sentiment_novels/blob/main/img/text_progress_sentiment_candide.PNG?raw=true)
 
-Voltaire's novel Candide (1759) - sentiment scores per text progress
+Voltaire's novel Candide (1759) - sentiment scores per text progress. The plot can be found in the result folder: https://github.com/MiMoText/sentiment_novels/tree/main/sentiments/toolchain_18th_century/results/plots/mimotext
 
 ## Licence
 
