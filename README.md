@@ -24,9 +24,9 @@ We utilise the [roman18-corpus](https://github.com/MiMoText/roman18), which cont
 | Anonym_Suzon.txt   | 0.17621220020855063      |   0.49699339589850516 |
 | Beauharnais_Lettres.txt | -0.09595917295290354      |   0.6217013888888896 |
 | Beaumont_Clarice.txt | 0.09166666666666666       |    0.657371794871795|
-| Benoist_Elisabeth | 0.01662030789441677     |   0.6651770451770456|
-| Benouville_Pensees | 0.055394797350363754      |   0.6570899470899474 |
-| Bernardin_Paul | 0.12725117663344399      |   0.5880710132890371 |
+| Benoist_Elisabeth.txt | 0.01662030789441677     |   0.6651770451770456|
+| Benouville_Pensees.txt | 0.055394797350363754      |   0.6570899470899474 |
+| Bernardin_Paul.txt | 0.12725117663344399      |   0.5880710132890371 |
 | ...| ...       | ... |
 
 The results of the sentiment analysis per novel are stored here : https://github.com/MiMoText/sentiment_novels/tree/main/sentiments/textblob_fr 
