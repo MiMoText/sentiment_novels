@@ -16,6 +16,14 @@ Excerpt of chapter two of Voltaire's novel Candide (1759) tagged with sentiments
 
 We utilise the [roman18-corpus](https://github.com/MiMoText/roman18), which contains french novels 1750-1800 in XML/TEI and plain text.  We utilised the novels in modernised plain text.  
 
+## Results
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+
 ## Licence
 
 Software in this repo, unless specified otherwise, is made available under the MIT license. We don’t claim any copyright or other rights on the metadata. If you use our scripts or results, for example in research or teaching, please reference this repository using the citation suggestion below.
