@@ -18,9 +18,9 @@ We utilise the [roman18-corpus](https://github.com/MiMoText/roman18), which cont
 
 ## Results
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| file |polarity  | subjectivity |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
+|Abbes_Voyage.txt'    | -0.030000690498737378 |0.671139971139971 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
