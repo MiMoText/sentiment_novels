@@ -23,7 +23,7 @@ def read_metadata(metadatafile):
 	with open(metadatafile, "r", encoding ="utf8") as infile:
 		metadata = pd.read_csv(infile, sep="\t")
 	
-	print(metadata.head())
+	print(metadata.columns.to_list())
 	return metadata
 
 def read_file(txt):
@@ -58,15 +58,25 @@ def add_metadata(metadata, text, name, missing_data):
 		print("title not found in metadatatable")
 		missing_data["{}".format(name)]["title"] = "x"
 		title = "No_title_found"
+
+	# get bgrf:
+	try:
+		bgrf = metadata.loc[metadata["filename"] == name, "bgrf"].values[0]
+	except IndexError:
+		print("bgrf not found in metadatatable")
+		missing_data["{}".format(name)]["bgrf"] = "x"
+		bgrf = "No_bgrf_found"
+
 	# merge year title and text
-	sentimenttext = "year={}\n".format(int(year)) + "title={}\n".format(title) + "text=" + text
+	sentimenttext = "year={}\n".format(int(year)) + "title={}\n".format(title) + "bgrf={}\n".format(bgrf) + "text=" + text
 	#print(sentimenttext[:200])
 
 	return sentimenttext, missing_data
 	
 def save_text(sentimenttext, name, savepath):
 	# write text to savepath
-	with open(join(savepath, "{}.txt".format(name)), "w", encoding = "utf8") as outfile:
+
+	with open(join(savepath, "{}.txt".format(name)), "w", encoding="utf8") as outfile:
 		outfile.write(sentimenttext)
 
 def main(file_path,save_path, metadatafile):
@@ -87,11 +97,13 @@ def main(file_path,save_path, metadatafile):
 
 			txt_ids.append(name)
 			text = read_file(txt)
-			missing_data["{}".format(name)] = {"year":None, "title":None, "text":None}
+			missing_data["{}".format(name)] = {"year":None, "title":None, "text":None, "bgrf":None}
 			sentimenttext, missing_data = add_metadata(metadata, text, name, missing_data)
 
 			if sentimenttext != "":
 				save_sentimenttext = save_text(sentimenttext, name, save_path)
+
+
 	# check if title is in metadatafile, but not in plain-text
 	for id in metadata_ids:
 		if id not in txt_ids:
@@ -100,8 +112,10 @@ def main(file_path,save_path, metadatafile):
 	missing_data_df = pd.DataFrame.from_dict(missing_data, orient="index")
 	missing_data_df = missing_data_df.dropna(axis=0, how="all")
 	# save missing data dataframe
+
 	with open("missing_data.csv", "w", encoding = "utf8") as outfile:
 		missing_data_df.to_csv(outfile)
-main(file_path,save_path, metadatafile)
+
+main(file_path, save_path, metadatafile)
 
 
