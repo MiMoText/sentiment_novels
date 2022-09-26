@@ -1,5 +1,6 @@
 year=1775
 title=Éloge historique de la raison
+bgrf=75.43
 text=Érasme fit, au xvie siècle, l'éloge de la Folie. Vous m'ordonnez de vous faire l'éloge de la Raison. Cette Raison n'est fêtée en effet tout au plus que deux cents ans après son ennemie, souvent beaucoup plus tard; et il y a des nations chez lesquelles on ne l'a point encore vue. 
 Elle était si inconnue chez nous du temps de nos druides quelle n'avait pas même de nom dans notre langue. César ne l'apporta ni en Suisse, ni à Autun, ni à Paris, qui n'était alors qu'un hameau de pêcheurs, et lui-même ne la connut guère. 
 Il avait tant de grandes qualités que la Raison ne put trouver de place dans la foule. Ce magnanime insensé sortit de notre pays dévasté pour aller dévaster le sien, et pour se faire donner vingt-trois coups de poignard par vingt-trois autres illustres enragés qui ne le valaient pas à beaucoup près. 

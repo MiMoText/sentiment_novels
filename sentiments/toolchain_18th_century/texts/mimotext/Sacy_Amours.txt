@@ -1,5 +1,6 @@
 year=1761
 title=Les Amours de Mirtil
+bgrf=61.19
 text=A MADAME D... 
 MADAME, Un Ouvrage composé de Tableaux, où, sous des formes variées, on n'a peint que l'Amour, la Beauté, les Graces; vous appartient à ce seul titre. 
 Vos droits se lisent dans vos yeux; ils sont écrits sur la plus aimable figure. Dirai-je tous ceux que vous donnent encore un goût délicat, un sentiment fin, un jugement sûr? 

@@ -1,5 +1,6 @@
 year=1761
 title=Les aventures de Periphas, descendant de Cécrops
+bgrf=61.17
 text=LES AVENTURES DE PERIPHAS. 
 LIVRE PREMIER. 
 DEscends du haut du Parnasse, ô Apollon! Dieu tutélaire de mon Héros, de Periphas, issu du sang de Cécrops fondateur de l'Empire d'Athenes: élève toi-même les sons de la trompette héroïque que j'ose emboucher, aux charmes de ta lyre d'or; ouvre à mes yeux le livre du destin; que j'y découvre comment un Prince, jeune, orphelin dès le berceau, sait mériter un trône, d'où la fortune ennemie avait depuis si long-temps éloigné la postérité de Cécrops. Prête-moi les accent de l'éloquence divine, cette sublimité de génie, dont Periphas fut doué par tes soins. La noblesse du discours harmonieux, la chaleur d'un cœur enflammé par toi-même, plein de l'amour des vertus qu'il chante, peuvent rendre sans doute leur récit plus interessant. 

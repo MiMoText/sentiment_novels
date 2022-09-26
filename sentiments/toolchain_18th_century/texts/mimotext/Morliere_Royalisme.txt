@@ -1,5 +1,6 @@
 year=1770
 title=Le royalisme
+bgrf=70.56
 text=EPITRE DÉDICATOIRE A MADAME LA COMTESSE DU BARRI, MADAME, Daignez accueillir avec bonté un hommage public de sentiment, et de reconnaissance. Le zèle seul m'a dicté ce petit ouvrage; seul il ose vous l'offrir. Je sens qu'il est capable d'égarer dans une carrière qui demande des talents. Mais j'espére, Madame, que vos suffrages suppléeront à la médiocrité des miens. Les traits que je développe dans cet essai le rendent digne de paraître sous vos auspices. Ils sont tous puisés dans votre Maison; ils retracent la fidelité la plus héroique de deux Sujets pour leur Roi. Trop heureux si vous voulez bien me pardonner une entreprise au - dessus de mes forces, en faveur du motif qui me l'a inspirée. 
 Je suis avec un profond respect, MADAME Votre très-humble et très-obéissant serviteur. 
 DE L.... 

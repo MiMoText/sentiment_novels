@@ -1,5 +1,6 @@
 year=1775
 title=Histoire de Jenni
+bgrf=75.44
 text=CHAPITRE I. 
 Vous me demandez, monsieur, quelques détails sur notre ami le respectable Freind, et sur son étrange fils. Le loisir dont je jouis enfin après la retraite de milord Peterborough me permet de vous satisfaire. Vous serez aussi étonné que je l'ai été, et vous partagerez tous mes sentiments. 
 Vous n'avez guère vu ce jeune et malheureux Jenni, ce fils unique de Freind, que son père mena avec lui en Espagne lorsqu'il était chapelain de notre armée, en 1705. Vous partîtes pour Alep avant que milord assiégeât Barcelone ; mais vous avez raison de me dire que Jenni était de la figure la plus aimable et la plus engageante, et qu'il annonçait du courage et de l'esprit. Rien n'est plus vrai ; on ne pouvait le voir sans l'aimer. Son père l'avait d'abord destiné à l'Église ; mais le jeune homme ayant marqué de la répugnance pour cet état, qui demande tant d'art, de ménagement, et de finesse, ce père sage aurait cru faire un crime et une sottise de forcer la nature. 

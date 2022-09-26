@@ -1,5 +1,6 @@
 year=1789
 title=Le crime, ou Lettres originales, contenant les aventures de César de Perlencour
+bgrf=89.81
 text=AVANT-PROPOS. 
 Dans l' Aventurier François, nous avons eu pour principal but d'amuser; mais on y a reconnu quelques réflexions, peintures et fictions utiles. Dans le Philosophe Parvenu, nous avons commencé à montrer un but plus moral; et, pour éclairer en amusant, nous avons tâché de persuader aux jeunes-gens qu'il faut avoir un état, et que celui qui n'en a pas s'expose à de grands dangers. Le titre du Crime, qui sera suivi du Repentir, annonce ici quelque chose encore de plus sérieux. Sans renoncer à amuser, nous voudrions toucher, ébranler, effrayer même, faire voir combien ce qu'on prend pour des gentillesses, ce qu'on nomme, en riant, les caravanes de la jeunesse, peut avoir quelquefois de terribles conséquences, quand un jeune-homme, gâté d'abord par une mère aveugle, se trouve jeté à Paris dans des liaisons dangéreuses, qui le corrompent, le dégradent, et l'entraînent à sa perte. 
 Il y a trois ouvrages Anglois composés par les mêmes auteurs; le Jaseur, le Spectateur, et le Mentor Moderne. 

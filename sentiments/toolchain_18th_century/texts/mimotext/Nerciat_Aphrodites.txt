@@ -1,5 +1,6 @@
 year=1764
 title=Les Aphrodites
+bgrf=93.16
 text=PRÉAMBULE NÉCESSAIRE. 
 L'Ordre ou la Fraternité des Aphrodites, aussi nommés Morosophes (*), se forma dès la Régence du fameux Philippe d'Orléans, tout ensemble homme d'Etat et homme de plaisir; au surplus bien différent de son arrière-petit fils, qui s'est aussi fait une réputation dans l'une et l'autre carrière. 
 Soit qu'un inviolable secret eût constamment garanti les anciens Aphrodites de l'animadversion de l'autorité-publique ( si sévère comme on sait, contre le libertinage porté à certains excès ); soit que dans le nombre de ces fidèles Associés, il y en eût plusieurs d'assez puissant pour rendre vaine la rigueur des Loix qui auraient pu les disperser et les punir, jamais, avant la Révolution, leur Société n'avait souffert d'échec de quelque conséquence; mais ce récent événement a frappé plus des trois quarts des Freres et Sœurs; les plus solides colonnes de l'Ordre ont été brisées; le local même, qui était dans Paris, a été abandonné. 

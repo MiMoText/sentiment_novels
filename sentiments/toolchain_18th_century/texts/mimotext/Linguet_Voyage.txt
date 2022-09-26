@@ -1,5 +1,6 @@
 year=1755
 title=Voyage au labirinthe du jardin du roi
+bgrf=55.27
 text=PRE'FACE. 
 VOYAGE AU LABIRINTHE DU JARDIN DU ROI. 
 JE veux te regaler, mon cher, du récit d'un Voyage que nous avons fait hier, un de mes amis et moi, qui surpasse de beaucoup le Voyage de Saint Cloud par Terre et par Mer; celui de Cirano dans la Lune, celui de Chapelle, et ceux de tant d'autres Voyageurs dont les noms ne sont pas parvenus jusqu'à moi. 

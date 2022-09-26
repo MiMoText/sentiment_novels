@@ -1,5 +1,6 @@
 year=1775
 title=Félicia ou mes Fredaines
+bgrf=75.37
 text=PRÉFACE DE L'AUTEUR Voici, mon très cher ouvrage, Tout ce qui t'arrivera : Tu ne vaux rien, c'est dommage : N'importe, on t'achètera. 
 Plus d'une femme t'aura, Jusqu'au bout avec courage, Lira : La plus catin (c'est l'usage), Au feu te condamnera; Mais la plus sage... 
 Rira. 

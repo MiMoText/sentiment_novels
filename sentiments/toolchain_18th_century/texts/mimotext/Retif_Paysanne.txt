@@ -1,5 +1,6 @@
 year=1784
 title=La paysanne pervertie ou Les dangers de la ville
+bgrf=84.58
 text=Lettre 1. 
 Ursule, à ses père et mère. 
 [Son arrivée à la ville.]. 

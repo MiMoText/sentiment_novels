@@ -1,5 +1,6 @@
 year=1767
 title=L'Ingénu, histoire véritable tirée des manuscrits du Père Quesnel
+bgrf=67.52
 text=CHAPITRE I. 
 COMMENT LE PRIEUR DE NOTRE-DAME DE LA MONTAGNE ET MADEMOISELLE SA SŒUR RENCONTRÈRENT UN HURON. 
 Un jour saint Dunstan, Irlandais de nation et saint de profession, partit d'Irlande sur une petite montagne qui vogua vers les côtes de France, et arriva par cette voiture à la baie de Saint-Malo. Quand il fut à bord, il donna la bénédiction à sa montagne, qui lui fit de profondes révérences, et s'en retourna en Irlande par le même chemin qu'elle était venue. 

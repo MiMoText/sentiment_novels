@@ -1,5 +1,6 @@
 year=1761
 title=Julie, ou La nouvelle Héloïse
+bgrf=61.18
 text=PREMIERE PARTIE LETTRE I. 
 A JULIE Il faut vous fuir, Mademoiselle, je le sens bien: j’aurais dû beaucoup moins attendre, ou plutôt il fallait ne vous voir jamais. Mais que faire aujourd’hui? Comment m’y prendre? Vous m’avez promis de l’amitié; voyez mes perplexités, et conseillez-moi. 
 Vous savez que je ne suis entré dans votre maison que sur l’invitation de Madame votre mère. Sachant que j’avais cultivé quelques talents agréables, elle a cru qu’ils ne seraient pas inutiles, dans un lieu dépourvu de maîtres, à l’éducation d’une fille qu’elle adore. Fier, à mon tour, d’orner de quelques fleurs un si beau naturel, j’osai me charger de ce dangereux soin sans en prévoir le péril, ou du moins sans le redouter. Je ne vous dirai point que je commence à payer le prix de ma témérité: j’espère que je ne m’oublierai jamais jusqu’à vous tenir des discours qu’il ne vous convient pas d’entendre, et manquer au respect que je dois à vos mœurs, encore plus qu’à votre naissance et à vos charmes. Si je souffre, j’ai du moins la consolation de souffrir seul, et je ne voudrais pas d’un bonheur qui pût coûter au vôtre. 

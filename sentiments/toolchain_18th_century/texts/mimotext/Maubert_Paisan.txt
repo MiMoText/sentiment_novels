@@ -1,5 +1,6 @@
 year=1754
 title=L’illustre païsan ou mémoires et avantures de Daniel Moginié
+bgrf=54.28
 text=AUX >NOBLES SEIGNEURS L'AVOYER GRAND ET PETIT CONSEIL DE L'ETAT EXTERIEUR DE LA VILLE ET REBUBLIQUE DE BERNE. 
 NOBLES SEIGNEURS, LE sage Etabissement, qui vous donna l'ombre de la Souveraineté, pour vous former de longue main à la Souverarineté réelle, que vous devez un jour partager, vous fait une heureuse habitude de devoirs de votre état futur. Vous êtes, NOBLES SEIGNEURS, le seul Corps de Jeunesse Republicaine en Europe, qui fasse profession expresse de mériter par les talents le haut rang, auquel la naissance l'appelle. Puis-je faire paroitre sous de meilleurs auspices que les votres l'Histoire d'un Homme illustre, que ses talents ont approché du trône, et qui ne demanda d'être cru sur la noblesse de ses Ayeux, que quand ses actions en appuïerent les titres? 
 Je vous la présente, NOBLES SEIGNEURS, et je vous prie de la recevoir comme un témoignage de la haute estime, et du respect, avec lesquels j'ai l'honneur d'être. 

@@ -1,5 +1,6 @@
 year=1791
 title=La Philosophie dans le boudoir
+bgrf=95.37
 text=AUX LIBERTINS Voluptueux de tous les âges et de tous les sexes, c'est à vous seuls que j'offre cet ouvrage; nourrissez-vous de ses principes, ils favorisent vos passions, et ces passions, dont de froids et plats moralistes vous effraient, ne sont que les moyens que la nature emploie pour faire parvenir l'homme aux vues qu'elles a sur lui; n'écoutez que ces passions délicieuses, leur organe est le seul qui doive vous conduire au bonheur. 
 Femmes lubriques, que la voluptueuse Saint-Ange soit votre modèle; méprisez, à son exemple, tout ce qui contrarie les lois divines du plaisir qui l'enchaînèrent toute sa vie. 
 Jeunes filles trop longtemps contenues dans les liens absurdes et dangereux d'une vertu fantastique et d'une religion dégoûtante, imitez l'ardente Eugénie, détruisez, foulez aux pieds, avec autant de rapidité qu'elle, tous les préceptes ridicules inculqués par d'imbéciles parents. 

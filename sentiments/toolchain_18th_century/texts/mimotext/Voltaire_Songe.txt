@@ -1,5 +1,6 @@
 year=1756
 title=Songe de Platon
+bgrf=56.32
 text=Platon rêvait beaucoup, et on n'a pas moins rêvé depuis. Il avait songé que la nature humaine était autrefois double, et qu'en punition de ses fautes elle fut divisée en mâle et femelle. 
 Il avait prouvé qu'il ne peut y avoir que cinq mondes parfaits, parce qu'il n'y a que cinq corps réguliers en mathématiques. Sa république fut un de ses grands rêves. Il avait rêvé encore que le dormir naît de la veille, et la veille du dormir, et qu'on perd sûrement la vue en regardant une éclipse ailleurs que dans un bassin d'eau. Les rêves alors donnaient une grande réputation. 
 Voici un de ses songes, qui n'est pas un des moins intéressants. Il lui sembla que le grand Démiourgos, l'éternel Géomètre, ayant peuplé l'espace infini de globes innombrables, voulut éprouver la science des génies qui avaient été témoins de ses ouvrages. Il donna à chacun d'entre eux un petit morceau de matière à arranger, à peu près comme Phidias et Zeuxis auraient donné des statues et des tableaux à faire à leurs disciples, s'il est permis de comparer les petites choses aux grandes. 

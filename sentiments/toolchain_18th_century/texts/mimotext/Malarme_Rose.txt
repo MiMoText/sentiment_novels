@@ -1,5 +1,6 @@
 year=1783
 title=Anna Rose-Tree
+bgrf=83.35
 text=AVERTISSEMENT. 
 En 1780, il a paru deux Ouvrages de moi; c'était mon coup d'essai. Le Public indulgent a bien voulu donner quelques éloges à mes faibles productions, sans doute pour m'encourager. Sensible à ses bontés, j'ai cru n'y pouvoir mieux répondre qu'en travaillant de nouveau à les mériter. 
 J'ai redoublé de zèle, et bientôt deux volumes se sont trouvé en état d'être imprimés. Des événement sans nombre m'ayant éloignée de Paris, trois années se sont écoulées, sans qu'il m'ait été possible de les mettre au jour : je n'en suis pas pour cela restée dans l'inaction; deux autres Ouvrages n'attendent pour aller à la censure que le jugement que prononcera sur celui-ci ce même Public à qui il m'importe de plaire, et à qui je sacrifie volontiers mes veilles, pourvu qu'en échange, il ne me traite pas avec trop de rigueur. 

@@ -1,5 +1,6 @@
 year=1783
 title=Galatée
+bgrf=83.26
 text=A SON ALTESSE SÉRÉNISSIME MADAME LA DUCHESSE DE CHARTRES. 
 Ô vous qui, princesse ou bergère, Deviez être l'exemple et l'idole des cœurs; Vous qui n'aimez de vos grandeurs Que le bien que vous pouvez faire, Daignez souffrir qu'à vos genoux Une villageoise étrangère Vienne vous choisir pour sa mère: Sa mère!... avec ce mot l'on obtient tout de vous. Tendez à Galatée une main secourable; Elle est belle, sensible, et sage autant qu'aimable. L'auteur la flatte, dira-t-on, Et son livre n'est qu'une fable: Mais si l'on y voit votre nom, Le roman sera véritable. 
 VIE DE CERVANTES. 

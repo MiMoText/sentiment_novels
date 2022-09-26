@@ -1,5 +1,6 @@
 year=1769
 title=Histoire de Robert le Diable, duc de Normandie; et de Richard sans peur, son fils
+bgrf=69.22
 text=CHAPITRE PREMIER. 
 Sagesse d'Hubert. Embarras de ses Courtisans. Combat contre deux Corsaires. 
 S'IL EST un plus grand crime, il n'en est pas du moins de plus insensé, que de murmurer contre la Providence; nous lui imputons des malheurs que nous nous faisons nousmême, ou qui, étant liés à un ordre invariable de choses, sont presque toujours la source des plus grands biens. Pour qui pourrait voir la chaîne des événement, il n'y aurait ni bonheur, ni malheur sur la terre : ceux dont nous nous plaignons, ne sont le plus souvent des maux, que parcequ'ils contrarient nos passions ou nos préjugés. Si la Providence s'assujetcissoit aux fanraisies particulières des elle réuffiroit à faire le bien général qui ne résulte pas du bonheur du grand nombre, mais du mélange des biens et des maux de tous. D'ailleurs nous nous méprenons si souvent sur les objets de nos vœux, nous avons des idées si fausses du bonheur ou du malheur, que nos désirs sont souvent des blasphèmes, dont la Providence se venge en les exhaussant. 

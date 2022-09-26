@@ -1,5 +1,6 @@
 year=1795
 title=Aline et Valcour ou le roman philosophique
+bgrf=95.36
 text=LETTRE PREMIÈRE. 
 Déterville à Valcour. 
 Paris, 3 Juin 1778. 

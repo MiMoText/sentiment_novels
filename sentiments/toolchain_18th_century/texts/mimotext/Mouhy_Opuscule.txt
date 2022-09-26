@@ -1,5 +1,6 @@
 year=1752
 title=Opuscule d’un célèbre auteur égyptien, contenant l’histoire d’Orphée par laquelle on pourroit soupçonner qu’il est peu de femmes fidèles
+bgrf=52.35
 text=AVERTISSEMT. 
 UN de mes amis ayant hérité d'une Terre, il a trouvé dans le Château une ancienne Bibliothéque, qu'on n'avait peut-être pas visitée depuis plus de soixante ans, parmi un tas de Livres rongés par la poussiere il s'est rencontré un Manuscrit Egyptien qu'il m'a montré: je l'ai lu, et je lui en ai rendu compte. Il m'a prié de le traduire; je l'ai fait: il veut maintenant le faire imprimer malgré toutes les raisons que je lui donne pour ne pas donner au Public un Ouvrage si mauvais et si peu utile: j'avertis donc tout Lecteur que c'est contre ma volonté que cet Ouvrage verra le jour. S'il m'en croit, il s'en tiendra à la lecture de cet Avertissement, par-là, il évitera l'ennui dont je voudrais le sauver, si la curiosité prévaut, qu il ne s'en prenne qu'à à lui seul; a mon égard me voila à l'abri de sa mauvaise humeur, et peu m'importe de la manière dont il jugera d'un Opuscule dont le sort devait être la pâture des Rats. 
 LETTRE De M. le Comte de *** à M. le Duc de ***. 

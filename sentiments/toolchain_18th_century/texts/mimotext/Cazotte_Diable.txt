@@ -1,5 +1,6 @@
 year=1772
 title=Le Diable amoureux
+bgrf=72.17
 text=I J'étais à vingt-cinq ans capitaine aux gardes du roi de Naples : nous vivions beaucoup entre camarades, et comme de jeunes gens, c'est-à-dire, des femmes, du jeu, tant que la bourse pouvait y suffire; et nous philosophions dans nos quartiers quand nous n'avions plus d'autre ressource. 
 Un soir, après nous être épuisés en raisonnements de toute espèce autour d'un très-petit flacon de vin de Chypre et de quelques marrons secs, le discours tomba sur la cabale et les cabalistes. 
 Un d'entre nous prétendait que c'était une science réelle, et dont les opérations étaient sûres; quatre des plus jeunes lui soutenaient que c'était un amas d'absurdités, une source de friponneries, propres à tromper les gens crédules et amuser les enfants.---Le plus âgé d'entre nous, Flamand d'origine, fumait une pipe d'un air distrait, et ne disait mot. Son air froid et sa distraction me faisaient spectacle à travers ce charivari discordant qui nous étourdissait, et m'empêchait de prendre part à une conversation trop peu réglée pour qu'elle eût de l'intérêt pour moi. Nous étions dans la chambre du fumeur; la nuit s'avançait : on se sépara, et nous demeurâmes seuls, notre ancien et moi. 

@@ -1,5 +1,6 @@
 year=1751
 title=Les avis d'un père à son fils
+bgrf=51.37
 text=EPITRE A MON CONFESSEUR. 
 MON REVEREND PERE, La plus grande partie des Evénemens de ma vie, mes écarts, mes foiblesses, ma résipiscence ne sont point une nouveauté pour vous. Les publier moi-même, c'est vous dispenser de la nécessité du secret. Je ne me suis jamais méfié de votre discrétion, mais j'ai cru que des ridicules publics éxigeoient une Confession qui le fût également. Je conviens que c'est une ancienne méthode que de sages raisons ont fait abolir, aussi je ne l'employé que pour des choses qui n'enlevent pas la considération qu'on peut d'ailleurs mériter dans le monde. Je vous ai fait des confidences beaucoup plus graves et plus importantes; mais vous serez toujours à cet égard le seul dans mon intimité. C'est la preuve la plus indubitable d'une distinction marquée, et du profond respect avec lequel je suis, etc. 
 J'apprends dans l'instant que le Révérend Pere B... est mort de la suite des fatigues qu'il a éprouvées pendant le Jubilé. Je conserve à sa mémoire le gage que je lui donnais de ma reconnaissance; mais j'aime à converser avec les vivant, et il ne trouvera pas mauvais que je lui substitue un ami en vie. 

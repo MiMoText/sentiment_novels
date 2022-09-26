@@ -1,5 +1,6 @@
 year=1788
 title=Le Doctorat impromptu
+bgrf=88.94
 text=AVIS DES ÉDITEURS. 
 Un valet d'auberge, chargé de jeter dans la boîte la première de ces lettres, et supposant, d'après le volume, qu'elle pouvait contenir quelque chose de mystérieux, la porta chez un jeune homme attaché, en sous ordre, à l'un des bureaux ministériels, et qui logeait dans l'hôtel. Ce commis, abusant de la circonstance, ouvrit le paquet; mais au lieu de secrets d'État, il n'y trouva que des folies, qu'il transcrivit pour son amusement. Cette copie, qui a circulé, nous est parvenue, et c'est d'après elle que nous avons imprimé. 
 Le lecteur nous pardonnera la liberté que nous avons prise de jeter par ci par là quelques notes. 

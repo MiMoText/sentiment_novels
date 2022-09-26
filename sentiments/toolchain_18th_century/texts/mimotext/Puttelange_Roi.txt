@@ -1,5 +1,6 @@
 year=1791
 title=Le Roi Guiot
+bgrf=91.44
 text=CHAPITRE PREMIER. 
 Tremblement de terre, éclipse de soleil, comète. 
 L'an du monde quatre cent soixanteneuf mille neuf cent quatre-vingt-quatre, sept mois, sept jours, sept heures, trois minutes, trois secondes, trois tierces, il se fit un grand tremblement de terre, que tous les peuples en général regardèrent comme un présage de quelque grand événement qui les intéressait, et dont chaque peuple en particulier fit l'application à sa manière; ainsi qu'il s'est toujours pratiqué. 

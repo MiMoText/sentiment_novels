@@ -1,5 +1,6 @@
 year=1798
 title=L'Anti-Justine
+bgrf=98.84
 text=Chapitre I. 
 De l'enfant qui bande Je suis né dans un village près de Reims et je me nomme Cupidonnet. Dès mon enfance, j'aimais les jolies filles; j'avais surtout un faible pour les jolis pieds et les jolies chaussures, en quoi je ressemblais au Grand Dauphin, fils de Louis XIV, et à Thévenard, acteur de l'Opéra. 
 La première fille qui me fit bander fut une jolie paysanne qui me portait à vêpres, la main posée à nu sur mes fesses; elle me chatouillait les couillettes, et me sentant bander, elle me baisait sur la bouche avec un emportement virginal, car elle était chaude parce qu'elle était sage. 

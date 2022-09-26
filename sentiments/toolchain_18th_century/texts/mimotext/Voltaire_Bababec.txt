@@ -1,5 +1,6 @@
 year=1750
 title=Bababec et les fakirs
+bgrf=51.R53
 text=Lorsque j'étais dans la ville de Bénarès sur le rivage du Gange, ancienne patrie des brachmanes, je tâchai de m'instruire. J'entendais passablement l'indien; j'écoutais beaucoup, et remarquais tout. J'étais logé chez mon correspondant Omri; c'était le plus digne homme que j'aie jamais connu. 
 Il était de la religion des bramins, j'ai l'honneur d'être musulman : jamais nous n'avons eu une parole plus haute que l'autre au sujet de Mahomet et de Brama. Nous faisions nos ablutions chacun de notre côté, nous buvions de la même limonade, nous mangions du même riz, comme deux frères. 
 Un jour, nous allâmes ensemble à la pagode de Gavani. Nous y vîmes plusieurs bandes de fakirs, dont les uns étaient des janguis, c'est-à-dire des fakirs contemplatifs, et les autres, des disciples des anciens gymnosophistes, qui menaient une vie active. Ils ont, comme on sait, une langue savante, qui est celle des plus anciens brachmanes, et, dans cette langue, un livre qu'ils appellent le Veidam. C'est assurément le plus ancien livre de toute l'Asie, sans en excepter le Zend-Avesta. 

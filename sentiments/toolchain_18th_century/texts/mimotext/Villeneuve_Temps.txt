@@ -1,5 +1,6 @@
 year=1768
 title=Le temps et la patience
+bgrf=68.54
 text=LE TEMPS ET LA PATIENCE, CONTE MORAL. 
 PREMIERE PARTIE. 
 L E Royaume d’Angole était gouverné, il y a quelque temps, par un Roi extrêmement âgé, et aussi sage qu’il était vieux. Ce Roi, veuf depuis plusieurs années, satisfait d’être père de deux aimables Princes, avait renoncé à un second engagement, et bornait ses soins, ainsi que ses plaisirs, à l’éducation de ses fils; mais, hélas qui peut compter sur la résolution la plus justement formée, puisqu’un Monarque si sage et si prudent perdit ces qualités aux premiers regards d’une jeune fille, dont la naissance était aussi basse que sa beauté était rare ? 

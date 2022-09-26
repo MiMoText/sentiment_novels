@@ -1,5 +1,6 @@
 year=1757
 title=Nouveau mémoire pour servir à l’histoire des Cacouacs
+bgrf=57.10
 text=AVERTISSEMENT. 
 Si cette Relation tombait par hasard entre les mains de quelques Cacouacs, on croit devoir les prévenir ici que l'Auteur n'a pas eu intention d'en attaquer aucun en particulier. Leurs mœurs peuvent être en contradiction avec leurs principes; mais, s'il leur est permis d'exposer ceux-ci, de les défendre, de les soutenir même, il ne doit pas être défendu à un Citoyen de les trouver déraisonnables et dangereux. 
 NOUVEAU MÉMOIRE POUR SERVIR À L'HISTOIRE DES CACOUACS. 

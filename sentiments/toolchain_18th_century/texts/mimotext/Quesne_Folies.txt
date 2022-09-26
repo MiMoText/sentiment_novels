@@ -1,5 +1,6 @@
 year=1800
 title=Les folies d’un conscrit
+bgrf=00.127
 text=A L.-R. JOURDAIN. 
 Autrefois les auteurs dédioient à de puissant seigneurs la quintessence de leurs ouvrages, pour en obtenir de grandes récompenses; aujourd'hui, mon ami, je t'offre le mien, non pour mendier ta protection, car tu n'as guères plus de crédit que moi, ni pour flatter ton ambition, putisque ta modestie a toujours étouffé ton amour - propre, mais pour rappeler quelquefois ton sérieux quand tu t'en écarteras, et pour t'inviter à rire quand tu seras chagrin et mélancolique. 
 Cependant, si l'éclat de ta fortune ne brille point à mes yeux, l'éclat de ton nom me force autant à l'admiration qu'au respect; car unique tu ne sois point noble d'attraction, ton origine est pourtant si ancienne, qu'on rapporte que tes bons ayeu baptisérent ce fameux fleuve où Jean Baptiste baptisa Jésus. 

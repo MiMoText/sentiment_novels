@@ -1,5 +1,6 @@
 year=1794
 title=Voyage autour de ma chambre
+bgrf=94.8
 text=CHAPITRE I Qu'il est glorieux d'ouvrir une nouvelle carrière, et de paraître tout à coup dans le monde savant, un livre de découvertes à la main, comme une comète inattendue étincelle dans l'espace! 
 Non, je ne tiendrai plus mon livre in petto; le voilà, messieurs, lisez. J'ai entrepris et exécuté un voyage de quarante-deux jours autour de ma chambre. Les observations intéressantes que j'ai faites, et le plaisir continuel que j'ai éprouvé le long du chemin, me faisaient désirer de le rendre public; la certitude d'être utile m'y a décidé. Mon cœur éprouve une satisfaction inexprimable lorsque je pense au nombre infini de malheureux auxquels j'offre une ressource assurée contre l'ennui, et un adoucissement aux maux qu'ils endurent. Le plaisir qu'on trouve à voyager dans sa chambre est à l'abri de la jalousie inquiète des hommes; il est indépendant de la fortune. 
 Est-il, en effet, d'être assez malheureux, assez abandonné, pour n'avoir pas un réduit où il puisse se retirer et se cacher à tout le monde? Voilà tous les apprêts du voyage. 

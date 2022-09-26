@@ -1,5 +1,6 @@
 year=1799
 title=Emilie et Alphonse
+bgrf=99.167
 text=Lettre première Madame la comtesse de Foix à madame la marquise d'Astey, sa fille. 
 Compiègne, 15 juin 1765. 
 Que j'aime la bonne foi avec laquelle vous me peignez l'étonnement qu'a produit mon voyage! 

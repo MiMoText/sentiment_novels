@@ -1,5 +1,6 @@
 year=1791
 title=Nouveau voyage sentimental
+bgrf=84.27
 text=NOUVEAU VOYAGE SENTIMENTAL. CHAPITRE I. 
 A travers Champs. 
 „CE n'est qu'un oubli; “mais Lisette pourrait croire..... 

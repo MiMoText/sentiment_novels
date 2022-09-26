@@ -1,5 +1,6 @@
 year=1753
 title=Naufrage des Iles Flottantes
+bgrf=53.26
 text=EPITRE DÉDICATOIRE A LA SULTANE REINE. 
 TA HAUTESSE, Magnifique Sultane, Incomparable Houri * du Monarque des Musulmans, m'a fait commander de traduire les Ouvrages inestimables du Philosophe la Lumiére de l'Inde, le plus sage de tous les Visirs. 
 Je me suis incliné avec respect devant tes ordres; j'en ai porté le seau sur mon front et sur ma poitrine. Tu as voulu voir les beautés ravissantes de ce Poëme divin, travesties à la Françoise. Quelle gloire pour ma Nation et pour ma Langue, de servir d'interpréte aux nobles amusement aux-quels ta grande âme se livre dans ces jardins délicieux, où tu brilles au milieu d'une foule de Graces, comme l'Astre, emblême de cet Empire, entre les célestes flambeaux! 

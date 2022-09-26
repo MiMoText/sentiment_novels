@@ -1,5 +1,6 @@
 year=1792
 title=L'enfant du carnaval
+bgrf=96.50
 text=L'Enfant du carnaval aux citoyens de Calais Je suis né dans vos murs, et si l'on se choisissait une patrie, je n'en choisirais pas d'autre. 
 Liés presque tous par le sang ou l'amitié, étrangers aux vices d'une grande ville et ne connaissant que l'émulation des vertus, vous avez servi la chose publique sans trahir l'honneur, sans outrager la nature. Calais est du très petit nombre des villes que n'ont point ensanglantées l'ambition, l'intérêt et les haines personnelles. 
 Je remplis un devoir bien doux en vous offrant l'hommage d'un opuscule nouveau que vous accueillerez peut-être avec votre indulgence ordinaire. Si je me suis un peu égayé sur des ridicules, qui sont l'unique patrimoine des auteurs, je n'en respecte pas moins la mémoire de certains hommes que j'ai connus dans mon enfance. On peut avoir été de la confrérie du Saint-Sacrement et de celle des Frères-Gigot, et conserver les droits les plus vrais à la considération publique. Le ridicule s'oublie; nos bonnes qualités nous survivent. 

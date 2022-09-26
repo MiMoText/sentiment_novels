@@ -1,5 +1,6 @@
 year=1799
 title=Les Ruines d'Yedburg
+bgrf=98.35
 text=L'une des branches d'une très-ancienne famille d'Écosse était tombée dans l'oubli et l'abjection. Ses malheurs datent de trop loin pour qu'on puisse en rendre compte avec exactitude, mais voici ce que l'on sait. 
 Du temps de Marie d'Écosse, ou déjà auparavant, une autre branche de la même famille prit parti contre les sectateurs de la nouvelle religion, que la branche dont nous parlons avait embrassée, et ces parents ennemis se firent beaucoup de mal. Fidelle aux Stuards comme à la foi de ses pères, un descendant de la branche catholique suivit Jaques second en France, et marié avec une Françoise, fille riche et de qualité, il en eut un fils, qui fort jeune encore, passa la mer en 1745. avec le dernier prétendant.. 
 Après la défaite de Culloden il se sauva en France. Il fut jugé et condamné, et ses biens ayant été confisqués, cette partie de la sentence fut exécutée avec tant de rigueur et de précipitation, qu'on l'étendit sur les biens de l'autre branche, qui déjà très-pauvre se vit entièrement dépouillée. Sans doute il eût été facile de revenir contre cette injustice, supposé qu'on n'eut pu l'empêcher, mais James Stair qui en était la victime n'avait ni la capacité ni l'activité nécessaires, et sa vie était si obscure qu'à peine savait-on qu'il existât. 

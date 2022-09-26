@@ -1,5 +1,6 @@
 year=1796
 title=Victor ou l'enfant de la forêt
+bgrf=97.23
 text=Tome 1 Un mot au lecteur Tome premier Qui le consolera, l'infortuné?.... Sa vertu! 
 Un mot au lecteur Prouver que la vertu est supérieure à tous les événements; qu'elle sait braver les coups du sort, et ceux de la méchanceté des hommes; qu'elle est toujours grande, toujours sublime, même quand elle a le malheur de succomber sous les efforts du vice, tel est le but moral que s'est prescrit l'Auteur. Si son Victor intéresse, s'il fournit quelques méditations, quelques rêveries touchantes au philosophe, à l'ami de l'humanité; si son plan est senti enfin par ceux qui lisent avec attention, qui cherchent toujours le fruit sous les fleurs, il sera bien récompensé d'avoir entrepris cet Ouvrage, qu'on trouvera d'ailleurs bizarre, romanesque, extraordinaire, invraisemblable, tout ce que l'on voudra. 
 Chapitre 1 La veuve et l'orphelin. 

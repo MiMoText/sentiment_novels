@@ -1,5 +1,6 @@
 year=1800
 title=L'enfant du bordel
+bgrf=0.16
 text=L'ENFANT DU BORDEL. 
 **CHAPITRE PREMIER. 
 L E fils du potentat comme celui du savetier sont l'ouvrage d'un coup de cul, et tel occupe un trône qui doit la naissance au laquais qui le sert. Grands de ce monde, ne vantez pas si haut votre illustre origine, car moi qui vous parle; je suis père d'un duc et de deux marquises; et que suis-je cependant ? l'enfant du bordel. 

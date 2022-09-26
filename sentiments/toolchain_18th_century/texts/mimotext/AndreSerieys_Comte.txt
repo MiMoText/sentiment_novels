@@ -1,5 +1,6 @@
 year=1800
 title=Le comte d'A*** ou les aventures d'un jeune voyageur sorti de la cour de France en 1789
+bgrf=00.39
 text=AVIS DES ÉDITEURS. 
 De tous les Français, qui, dans le commencement des mouvement révolutionnaires, ont quitté leur pays, il n'en est point dont l'histoire privée soit plus intéressante que celle du jeune Comte d'A****; né avec une imagination bouillante, et par conséquent inégale, il a parcouru différentes contrées du Nord et du Levant, bien moins en Voyageur ordinaire, qu'en Amateur qui veut tout connaître et jouir de tout. 
 Ses Aventures ont un fond de variété si piquant, si extraordinaire, qu'on les prendrait pour des fables, si nous n'avions point sous les yeux les matériaux en original, écrits de la propre main de l'Auteur, et si l'Auteur, lui-même, n'en garantissait point l'authenticité. 

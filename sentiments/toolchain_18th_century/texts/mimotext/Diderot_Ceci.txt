@@ -1,5 +1,6 @@
 year=1772
 title=Ceci n'est pas un conte
+bgrf=98.38
 text=Lorsqu’on fait un conte, c’est à quelqu’un qui l’écoute; et pour peu que le conte dure, il est rare que le conteur ne soit pas interrompu quelquefois par son auditeur. Voilà pourquoi j’ai introduit dans le récit qu’on va lire, et qui n’est pas un conte, ou qui est un mauvais conte, si vous vous en doutez, un personnage qui fasse à peu près le rôle du lecteur; et je commence. 
 Et vous concluez de là ? 
 — Qu’un sujet aussi intéressant devait mettre nos têtes en l’air; défrayer pendant un mois tous les cercles de la ville; y être tourné et retourné jusqu’à l’insipidité : fournir à mille disputes, à vingt brochures au moins, et à quelques centaines de pièces de vers pour ou contre; et qu’en dépit de toute la finesse, de toutes les connaissances, de tout l’esprit de l’auteur, puisque son ouvrage n’a excité aucune fermentation violente, il est médiocre, et très-médiocre. 

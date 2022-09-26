@@ -1,5 +1,6 @@
 year=1748
 title=L'oiseau blanc
+bgrf=98.38
 text=PREMIÉRE SOIRÉE. 
 La favorite se couchait de bonne heure, et s’endormait fort tard. Pour hâter le moment de son sommeil, on lui chatouillait la plante des pieds, et on lui faisait des contes; et pour ménager l’imagination et la poitrine des conteurs, cette fonction était partagée entre quatre personnes, deux émirs et deux femmes. Ces quatre improvisateurs poursuivaient successivement le même récit aux ordres de la favorite. Sa tête était mollement posée sur son oreiller, ses membres étendus dans son lit, et ses pieds confiés à sa chatouilleuse, lorsqu’elle dit : « Commencez; » et ce fut la première de ses femmes qui débuta par ce qui suit. 
 LA PREMIÈRE FEMME. 

@@ -1,5 +1,6 @@
 year=1784
 title=Le Vicomte de Barjac ou Mémoires pour servir à l’histoire de ce siècle
+bgrf=84.39
 text=AVANT-PROPOS À quelques amis sincères. 
 Je ne me figure point qu'un roman soit un ouvrage fort important; mais je ne le crois pas aussi indigne des lecteurs sensés que bien des gens se l'imagine. La différence d'un roman à un poème me semble assez légère; si l'un offre plus de beauté de détail, l'autre présente plus de richesses d'imagination. Quant à l'utilité morale, elle est toute à l'avantage de celui-ci. 
 Les Mémoires que nous publions aujourd'hui sont une fiction, si l'on veut; il n'y a cependant pas un fait dont le fonds ne soit vrai, pas un personnage qui n'existe ou n'ait existé. Tout ce que j'ai supprimé, c'est le merveilleux : ce qui se passe est beaucoup plus incroyable que ce qu'on invente; de même que ce que l'on voit frappe moins que ce qu'on lit. 

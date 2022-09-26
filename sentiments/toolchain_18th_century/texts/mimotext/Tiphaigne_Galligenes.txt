@@ -1,5 +1,6 @@
 year=1765
 title=Histoire des Galligènes
+bgrf=65.50
 text=HISTOIRE DES GALLIGENES, OU MÉMOIRES DE DUNCAN. CHAPITRE I. 
 Embarquement, naufrage, et arrivée de Duncan dans une île inconnue, où il se trouve en pays de connaissance. 
 Un Navigateur François, embarqué sous de mauvais auspices, avait essuyé dans un long voyage toutes les disgracies réservées aux gens de mer, qu'elles ne corrigent point. Presque tout l'équipage avait succombé; qui n'était pas mort, était mourant. Le vaisseau, sans Pilote, flottait au hasard dans une mer inconnue, et Duncan (c'est le nom de notre Voyageur) accablé de tant de maux, n'attendait plus que le dernier de tous. Il ne tarda pas; le vaisseau toucha un écueil et se brisa. Le reste de l'équipage infortuné périt; Duncan seul échappa à la faveur d'une planche qui le soutint une journée entière, et le déposa sur le soir dans une iste inconnue de toute la terre. 

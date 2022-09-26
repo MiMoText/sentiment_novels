@@ -1,5 +1,6 @@
 year=1751
 title=Le Bal de Venise
+bgrf=51.9
 text=AVERTISSEMENT. 
 LE fond de ce petit Roman, (car on verra bien que c'en est un) est historique. La principale aventure est vraie en partie, et peut-être plus d'un Lecteur se retrouverat'il dans l'Amant de la Florella. Le vrai ainsi déguisé tauche peu sans doute: on n'en tient pas grand compte à l'Auteur. C'est l'Art qu'on cherche dans un Roman, et quel Art? Pour réussire il faut qu'il se cache: on n'y veut presque point d'esprit, son langage est trop éloigné de celui du cœur. On s'attache au sentiment, c'est lui qui fait lire, qui fait tout l'intérêt de la Piéce, et qui soutient l'attention contre les dégoûts de la fiction reconnue, et rarement neuve. Le Bal de Venise, est un de ces Ecrits qui échapent en quelque façon de la plume; production légère, facile, et dont la simplicité fait le caractère. Il est aisé de s'apercevoir, sans qu'il soit besoin de nommer l'Auteur, qu'il est bien au-dessus de ce petit Ouvrage. Les talents aiment à s'exercer quelquefois sur des bagatelles, mais ce sont toujours des talents; et l'Ecrivain qui s'est amusé à faire cette Nouvelle Historique, a fait assurêment ses preuves. 
 LE BAL DE VENISE. NOUVELLE HISTORIQUE. 

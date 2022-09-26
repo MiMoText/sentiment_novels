@@ -1,5 +1,6 @@
 year=1778
 title=Mémoires de Suzon, soeur de Dom Bougre
+bgrf=83.9
 text=PRÉFACE. 
 Ces Mémoires n'auraient jamais vu le jour, si j'avais pu résister aux instances d'une personne à qui j'ai les plus grandes obligations et avec qui je passe une vie paisible et agréable. Que dis-je ? Vous n'auriez jamais connu, mon cher Comte, le dépôt que m'a confié mon amie, si vos bontés pour moi et vos procédés généreux n'avaient excité ma confiance. Dès que je vous les eus communiqués, vous me fîtes voir si clairement combien ils pouvaient être utiles aux jeunes personnes, qui ne sont jamais assez en garde contre les séductions des hommes, pour résister à tous les pièges qu'ils leur tendent, que je me déterminai enfin à les rendre publics : mais il est bon de vous instruire, cher Lecteur, comment ces Mémoires sont tombés entre mes mains. 
 Ce fut au moment où Suzon partait pour ce lieu affreux, dont la vue seule effraie les passans, où l'œil ne voit qu'horreur, où les cris perçant des malheureuses victimes qu'il renferme dans son sein, déchirent les entrailles des personnes les moins sensibles, que je reçus ce cher dépôt. 

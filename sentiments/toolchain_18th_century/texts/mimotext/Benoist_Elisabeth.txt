@@ -1,5 +1,6 @@
 year=1766
 title=Elisabeth: Roman Par Madame ***
+bgrf=66.11
 text=ÉLISABETH. LETTRE I. D'ELISABETH, sà Madame d'ALBI. 
 Dans quel lieu es-tu donc, chère Henriette, depuis huit jours que j'attends de tes nouvelles? que me présage ce silence? serais-tu malade? Ah Dieu! ce chagrin viendrait-il troubler ma joie? que dis-je, ma joie? ce mot ne rend point e que j'éprouve. 
 Tu sais combien ta présence me fut toujours chère: mais qu'elle me devient nécessaire en ce moment Enfin, pour la première fois, j'ai un important secret à te confier. 

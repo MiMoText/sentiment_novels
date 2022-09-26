@@ -1,5 +1,6 @@
 year=1786
 title=Mémoires de Mme de Warens, suivis de ceux de Claude Anet
+bgrf=86.32
 text=ÉPITRE DÊDICATOIRE. 
 a Madame LA BARONNE DE L. B. I. D. D. 
 Madame, On ne cesse de répéter que la Sensibilité est le partage des âmes faibles, les abus qu'on a fait de cette qualité, le plus bel apanage du Sexe qui doit faire tout le bonheur de l'autre, semble avoir justifié cette opinion toute injuste qu'elle est. 

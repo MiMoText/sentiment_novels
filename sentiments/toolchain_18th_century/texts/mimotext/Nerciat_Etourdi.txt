@@ -1,5 +1,6 @@
 year=1784
 title=L'Étourdi
+bgrf=84.50
 text=LETTRE PREMIERE. 
 Préliminaires indispensables. 
 Q Ue me demandes-tu, mon cher Despras ? pourquoi veux-tu que, par un récit sincere de toutes mes fredaines, je te retrace ce temps orageux d'une jeunesse inconsidérée que j'ai employé follement à courir après cet Être trompeur et fugitif qu'on nomme bonheur, et dont je ne saisis jamais que l'ombre. Tu desires, dis-tu, connaître toutes mes folies ? La plus grande, sans doute, est celle de te les raconter, tu l'exiges; eh bien ! connais-moi, connais tous ces bouillans transports, ces appétits déréglés auxquels je ne savais rien refuser; c'est pour toi, pour toi seul que j'écris. 

@@ -1,5 +1,6 @@
 year=1775
 title=Zély
+bgrf=75.28
 text=AVERTISSEMENT de l'Éditeur. 
 ON a vu paraître, il y a quelques années, quatre Volumes, dans lesquels on avait rassemblé plusieurs Traités sur le Bonheur. J'en ai lu quelques-uns qui avaient été imprimés séparément, avant l'époque de cette collection. J'y ai trouvé des opinions métaphysiques et des paradoxes que la Nature et les faits humains contredisent à chaque instant. L'Ouvrage que je présente au Public, n'est pas composé de ces raisonnement qui fatiguent les têtes Françaises; par cette raison, sans doute, il sera plus favorablement accueilli. 
 Mais, dira-t-on, c'est un Roman: les toilettes et les antichambres en sont tellement surchargées, qu'elles fléchissent sous le poids: pourquoi nous en offrir un nouveau? Nous en avons tant de jolis! J'en conviens, mais celui-ci est d'une espèce bien différente, ou du moins on en voit peu qui lui ressemblent. Les Voltaire et les Marmontel nous en ont donné quelques-uns qui apprennent à penser, et ils ont été reçus avec d'autant plus de satisfaction, que ces Génies avaient employé l'heureux talent de mettre en action les leçons de Philosophie, de Morale et de Politique qu'ils voulaient donner à leurs Concitoyens. 

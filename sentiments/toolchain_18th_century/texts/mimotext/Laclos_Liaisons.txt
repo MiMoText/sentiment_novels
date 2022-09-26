@@ -1,5 +1,6 @@
 year=1782
 title=Les Liaisons dangereuses
+bgrf=82.17
 text=AVERTISSEMENT DE L'ÉDITEUR. 
 Nous croyons devoir prévenir le Public que, malgré le titre de cet ouvrage et ce qu'en dit le rédacteur dans sa préface, nous ne garantissons pas l'authenticité de ce recueil, et que nous avons même de fortes raisons de penser que ce n'est qu'un roman. 
 Il nous semble de plus que l'auteur, qui paraît pourtant avoir cherché la vraisemblance, l'a détruite lui-même, et bien mal-adroitement, par l'époque où il a placé les événements qu'il publie. En effet, plusieurs des personnages qu'il met en scène ont de si mauvaises mœurs, qu'il est impossible de supposer qu'ils aient vécu dans notre siècle; dans ce siècle de philosophie, où les lumières, répandues de toutes parts, ont rendu, comme chacun sait, tous les hommes si honnêtes et toutes les femmes si modestes et si réservées. 

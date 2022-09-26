@@ -1,5 +1,6 @@
 year=1780
 title=Histoire du petit Jehan de Saintré, et de Gérard de Nevers, par Tressan
+bgrf=80.32
 text=AVANT-PROPOS. 
 Quoiqu'il paraisse, par le commencement de ce roman, qu'il ait été composé sous le roi Jean, les plus fortes raisons nous portent à croire qu'il ne peut l'avoir été que sous Charles VI. 
 La première, c'est que dans le chapitre 18, la dame des belles-Cousines appelle ses beaux-oncles, les ducs d'Anjou, de Berry, de Bourgogne; et que la reine régnante l'appelle belle-Cousine, au lieu de l'appeler belle-nièce. 

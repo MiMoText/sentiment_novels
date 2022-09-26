@@ -1,5 +1,6 @@
 year=1758
 title=Lettres parisiennes sur le désir d'être heureux
+bgrf=58.13
 text=LETTRES PARISIENNES. 
 LETTRE PREMIÉRE. 
 Le Désir du Bonheur en général. 

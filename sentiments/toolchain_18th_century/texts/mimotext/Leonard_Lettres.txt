@@ -1,5 +1,6 @@
 year=1783
 title=Lettres de deux amants habitants de Lyon
+bgrf=83.31
 text=LETTRES DE DEUX AMANS, HABITANS DE LYON. 
 LETTRE I. 
 Thérese de Saint-Cyran à Constance d'Armiane. 

@@ -1,5 +1,6 @@
 year=1799
 title=La Nuit anglaise
+bgrf=99.44
 text=LE SPECTRE FLAMBOYANT, Ou LES MYSTÈRES DE LA CAVERNE TÉNÉBREUSE. 
 Tome XIX. Chapitre XVII. 
 "UN vent frais agitait les feuilles frémissantes des arbres voisins et leur causait un bruissement mélancolique; la lune répandait faiblement les rayons pâles et radoucis de son disque argenté; une cascade éloignée faisait entendre son murmure plaintif et monotone; d'un côté de l'horizon on croyait encore voir les détonations graduées de cette nuance de pourpre que laisse sur la voûte du ciel la clarté expirante du soleil couchant, tandis que de l'autre on apercevait déjà la teinte dorée de l'aurore brillante qui venait dessiner sur l'azur du firmament les sommets grisâtres et dentelés des Appennins: L'infortunée Angélica. pleine du sentiment de ses malheurs, contemplait d'un œil indifférent les richesses d'une belle nature étalées devant elle. Négligemment assise sur l'affit délabré d'un des canons rouillés de la terrasse du Nord, elle tenait encore à la main son luth sur lequel ses doigts savant venaient de déployer la magnifique harmonie de l'hymne de Minuit." 

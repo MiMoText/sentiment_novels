@@ -1,5 +1,6 @@
 year=1788
 title=Estelle
+bgrf=88.53
 text=ESSAI SUR LA PASTORALE. 
 Beaucoup d'auteurs ont parlé de la pastorale, ont jugé les poètes bucoliques, ont donné des préceptes sur ce genre, et peu se sont accordés dans la manière de l'envisager. Les uns (1) veulent que les bergers aient de l'esprit fin et galant; les autres (2) recommandent au contraire de ne jamais s'éloigner de cette simplicité d'or qui fait le principal charme des ouvrages des anciens; d'autres, enfin (1), regardent l'allégorie comme le principal mérite de l'églogue. 
 Mon projet n'est pas de discuter ces différents avis dont aucun n'est le mien en entier: je veux seulement rendre compte de ma manière de voir la pastorale, et des moyens que je crois les plus propres à lui donner un degré d'intérêt, peut-être même d'utilité. 

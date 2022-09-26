@@ -1,5 +1,6 @@
 year=1753
 title=Amilec, ou la Graine d'Hommes qui sert à peupler les planètes
+bgrf=53.33
 text=AMILEC, OU LA GRAINE D'HOMMES. 
 IL y avait sept heures que j'étais enferme dans mon Cabinet. J'y étais opiniàtrement colé sur un Volume assez ample, où il est parlé de la génération. Je le parcourus avec toute l'avidité dont est capable un homme qui ne sçait rien, et qui brule d'apprendre. 
 Que me resta-t-il de cette étude? ce qui reste de toutes celles de ce genre: des doutes. 

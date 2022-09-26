@@ -1,5 +1,6 @@
 year=1769
 title=La Parisienne en province, ouvrage national
+bgrf=69.14
 text=LA PARISIENNE EN PROVINCE. 
 OUVRAGE NATIONAL. 
 PREMIERE PARTIE. 

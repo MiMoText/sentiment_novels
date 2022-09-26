@@ -1,5 +1,6 @@
 year=1795
 title=Trois Femmes
+bgrf=96.18
 text=PREMIÈRE PARTIE Emilie avait seize ans et demi quand elle émigra avec son père et sa mère, gens de mérite, d'honneur, de naissance, et qui avaient été assez riches pour espérer de marier très bien leur fille. Elle était fille unique, elle avait de la beauté et de l'esprit, on lui avait prodigué toute espèce d'instruction, et cependant elle n'avait qu'un amour-propre et des prétentions supportables: elle parlait avec assez de simplicité; elle avait quelques égards pour des étrangers qui l'accueillaient. 
 Son père et sa mère espéraient, ainsi que tant d'autres, une contre-révolution prochaine, uniquement parce qu'ils la désiraient, et cet espoir les avait empêchés de vendre, lorsqu'il en était encore temps, un château en province et un hôtel qu'ils avaient à Paris. Sans prévoyance d'abord, bientôt sans argent, le chagrin triompha de leur raison, altéra leur santé, et les conduisit au tombeau presque en même temps. 
 -Vivez pour moi, s'écriait la malheureuse Emilie, en considérant l'étendue de la perte dont elle était menacée: ranimez votre entourage, rappelez votre vie que je vois s'échapper. 

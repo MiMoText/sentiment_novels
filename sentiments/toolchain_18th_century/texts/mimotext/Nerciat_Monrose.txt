@@ -1,5 +1,6 @@
 year=1792
 title=Monrose ou le Libertin par fatalité
+bgrf=92.34
 text=PREMIÈRE PARTIE CHAPITRE PREMIER C'EST FÉLICIA QUI PARLE Je reviens à vous, chers lecteurs, puisque vous voulûtes bien m'écouter avec tant d'indulgence la première fois que je m'avisai de vous entretenir. Mais, malgré l'espèce d'engagement que j'avais pris avec moi-même de vous donner la suite de Mes Fredaines, ce ne sera cependant pas de moi que je vous parlerai. Trouvez bon de ne me plus voir sur la scène qu'en qualité d'accessoire : Monrose (dont vous vous souvenez sans doute ?) va maintenant y jouer le rôle principal. 
 Au surplus, ne vous imaginez pas que ce soit faute de matériaux qu'il me convienne de laisser un autre lier son monument aux pierres d'attente du mien : au contraire, bien plutôt, mes chers amis, serais-je dans le cas de m'appliquer ce mauvais vers : Pour avoir trop à dire... je me tais. 
 Mais, pendant plus de dix ans qui se sont écoulés depuis que j'ai cessé d'écrire, tout ce que j'ai pu me permettre d'agréables folies, ressemble si bien à ce que vous connaissez déjà, que j'ai cru devoir vous épargner des redites. J'ai beaucoup voyagé; mais, que fait un nouvel auteur de voyages ? 

@@ -1,5 +1,6 @@
 year=1780
 title=Histoires du petit Jehan de Saintré, et de Gérard de Nevers
+bgrf=80.33
 text=AVANT-PROPOS. 
 Ce Roman, réimprimé en 1725, est enrichi de notes très-instructives. Ces notes eurent beaucoup plus de mérite dans le temps de cette réimpression, qu'elles n'en auraient aujourd'hui, cette branche de la littérature française ayant été éclairée depuis cette époque par les belles et savantes recherches des MM. de Paulmy, de Sainte-Palaye, et de plusieurs autres littérateurs d'un mérite supérieur: mais ce que nous avons acquis depuis en 1725 diminue point le prix de ce premier travail. 
 L'autographe de ce roman est aujourd'hui compris dans les manuscrits de la belle bibliothèque de monsieur le duc de la Vallière. Tout paraît se réunir à prouver qu'il est très-ancien; cependant, quelques raisons portent à croire que l'imprimé d'après lequel nous avons tiré cet extrait, peut avoir essuyé bien des altérations. C'est à monsieur l'abbé Rive que nous nous en rapportons, et nous soumettrons toujours notre avis au sien. 

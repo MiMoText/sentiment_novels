@@ -1,5 +1,6 @@
 year=1755
 title=La Nuit et le moment, ou les Matines de Cythère, dialogue
+bgrf=55.16
 text=LA NUIT ET LE MOMENT, OU LES MATINES DE CYTHÈRE. 
 DIALOGUE. 
 CIDALISE, Voyant entrer Clitandre en robe de chambre. 

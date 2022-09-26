@@ -1,5 +1,6 @@
 year=1800
 title=Ma tante Geneviève ou je l’ai échappé belle
+bgrf=00.64
 text=AVANT-PROPOS. 
 Q uoique j'aie toujours été, ou que j'aie passé pour inconséquente, et même folle pendant les trois premiers quarts de ma vie, j'aime l'ordre, à présent que l'âge m'a mûrie... 
 Ainsi donc, pour procéder par ordre, je crois devoir, en attendant que je sois arrivée au moment où mon histoire personnelle sera assez intéressante pour mériter l'attention du lecteur, commencer par lui faire savoir ce qu'était ma tante Geneviève, qui, tant par son droit d'aînesse que par l'influence majeure que son existence a eu sur la mienne, doit nécessairement être connue avant moi. 

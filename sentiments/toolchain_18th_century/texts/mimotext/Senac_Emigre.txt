@@ -1,5 +1,6 @@
 year=1797
 title=L’Émigré
+bgrf=97.74
 text=LETTRE PREMIÈRE. 
 La Cesse de Loewenstein à Melle Émilie de Wergentheim. 
 le... Juillet 1793. 

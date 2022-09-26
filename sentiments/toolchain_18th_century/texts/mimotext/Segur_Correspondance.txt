@@ -1,5 +1,6 @@
 year=1789
 title=Correspondance secrète entre Ninon de Lenclos, le Marquis de Villarceaux et Madame M.
+bgrf=89.104
 text=LETTRE PREMIÈRE. 
 Mademoiselle Ninon de Lenclos au marquis. 
 A Paris, ce 12 juillet 1650. 

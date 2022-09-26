@@ -1,5 +1,6 @@
 year=1759
 title=Candide, ou l'Optimisme
+bgrf=59.25
 text=CHAPITRE PREMIER Comment Candide fut élevé dans un beau château, et comment il fut chassé d'icelui. 
 Il y avait en Westphalie, dans le château de M. le baron de Thunder-ten-tronckh, un jeune garçon à qui la nature avait donné les mœurs les plus douces. Sa physionomie annonçait son âme. Il avait le jugement assez droit, avec l'esprit le plus simple; c'est, je crois, pour cette raison qu'on le nommait Candide. 
 Les anciens domestiques de la maison soupçonnaient qu'il était fils de la sœur de M. le baron et d'un bon et honnête gentilhomme du voisinage, que cette demoiselle ne voulut jamais épouser parce qu'il n'avait pu prouver que soixante et onze quartiers, et que le reste de son arbre généalogique avait été perdu par l'injure du temps. 

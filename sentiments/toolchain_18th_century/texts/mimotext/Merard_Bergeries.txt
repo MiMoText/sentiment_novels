@@ -1,5 +1,6 @@
 year=1784
 title=Bergeries et opuscules de Mlle d'Ormoy l'aînée
+bgrf=84.43
 text=J'ai lu, d'Ormoy, ton manuscrit. Dis moi: Quand de l'Amour tu peins si bien la flamme, T'exprimes-tu d'après ton âme, Ou n'écris-tu que d'après ton esprit. 
 Par l'éditeur de ces opuscules. 
 A MON MARI. 

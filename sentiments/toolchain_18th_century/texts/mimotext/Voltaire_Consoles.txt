@@ -1,5 +1,6 @@
 year=1756
 title=Les deux consolés
+bgrf=56.32
 text=Le grand philosophe Citophile disait un jour à une femme désolée, et qui avait juste sujet de l'être : « Madame, la reine d'Angleterre, fille du grand Henri IV, a été aussi malheureuse que vous : on la chassa de ses royaumes ; elle fut près de périr sur l'Océan par les tempêtes ; elle vit mourir son royal époux sur l'échafaud. 
 --- J'en suis fâchée pour elle, dit la dame ; » et elle se mit à pleurer ses propres infortunes. 
 « Mais, dit Citophile, souvenez-vous de Marie Stuart : elle aimait fort honnêtement un brave musicien qui avait une très-belle basse-taille. Son mari tua son musicien à ses yeux ; et ensuite sa bonne amie et sa bonne parente, la reine Élisabeth, qui se disait pucelle, lui fit couper le cou sur un échafaud tendu de noir, après l'avoir tenue en prison dix-huit années. 

@@ -1,5 +1,6 @@
 year=1775
 title=Les oreilles du comte de Chesterfield
+bgrf=75.46
 text=CHAPITRE I. 
 Ah  la fatalité gouverne irrémissiblement toutes les choses de ce monde. J'en juge, comme de raison, par mon aventure. 
 Milord Chesterfield, qui m'aimait fort, m'avait promis de me faire du bien. Il vaquait un bon preferment à sa nomination. Je cours du fond de ma province à Londres ; je me présente à milord ; je le fais souvenir de ses promesses ; il me serre la main avec amitié, et me dit qu'en effet j'ai bien mauvais visage. Je lui réponds que mon plus grand mal est la pauvreté. Il me réplique qu'il veut me faire guérir, et me donne sur-le-champ une lettre pour M. Sidrac, près de Guildhall. 

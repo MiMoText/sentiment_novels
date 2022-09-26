@@ -1,5 +1,6 @@
 year=1783
 title=Le mari sentimental
+bgrf=83.22
 text=LE MARI SENTIMENTAL. 
 LETTRES DE Mr. BOMPRÉ, à Mr. de ST. THOMIN, à Orbe. 
 LETTRE PREMIÈRE. 

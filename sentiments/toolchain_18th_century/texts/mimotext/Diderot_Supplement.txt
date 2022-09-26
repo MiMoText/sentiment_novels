@@ -1,5 +1,6 @@
 year=1796
 title=Supplément au voyage de Bougainville
+bgrf=98.38
 text=I. 
 JUGEMENT DU VOYAGE DE BOUGAINVILLE. 
 A. Cette superbe voûte étoilée, sous laquelle nous revînmes hier, et qui semblait nous garantir un beau jour, ne nous a pas tenu parole. 

@@ -1,5 +1,6 @@
 year=1798
 title=Firmin ou le Jouet de la fortune
+bgrf=98.88
 text=CHAPITRE PREMIER. 
 Je rends compte de mon éducation. Je développe les plus heureuses dispositions. La fortune me choisit pour me faire servir de jouet à ses caprices. 
 Que mon lecteur ne s'attende pas à me voir débuter dans le récit de mes aventures, par l'ordre ordinaire de la généalogie, c'est-à-dire, par le détail de ma naissance, car elle fut long-temps une énigme pour moi, et je dois lui en laisser désirer la connaissance, jusqu'à l'époque où je l'ai acquise moi-même. 

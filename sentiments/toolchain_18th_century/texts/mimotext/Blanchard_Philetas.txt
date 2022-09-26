@@ -1,5 +1,6 @@
 year=1800
 title=Philétas, Roman pastoral
+bgrf=00.50
 text=PHILÉTAS, ROMAN PASTORAL. LIVRE PREMIER. 
 Aux premiers jours de mon adolescence, temps heureux des douces illusions, je chantais, sur un flageolet rustique, les amours et les chansons du hameau où je suis né; je chantais, comme un jeune berger qui se croit dans la solitude, sans songer à l'art et ne suivant que le plaisir qui me guidait. 
 Aujourd'hui plus timide, je ne reprends qu'en tremblant la flûte champêtre; je crains de laisser échapper un seul son qui blesserait l'oreille délicate. Je voudrais, par une harmonie aussi douce que l'idée du bonheur, transporter votre imagination dans ces lieux que les Muses ont mille fois célébrés, dans cet heureux vallon que le Pénée arrose, que l'Olympe et l'Ossa encadrent de leurs croupes ombragées de pins toujours verts, de lauriers odorans et de platanes majestueux; dans cet asile sacré où la paix, fille de la modération, habitait, et où l'homme, sans importuner les dieux, recevait leurs bienfaits les plus doux, les fleurs des champs, les fruits de la terre et le lait des troupeaux; dans ces bocages riant où le zéphir léger promenait sur ses ailes parfumées les désirs bienfaisant qui font rêver l'amour et sourire l'amitié. 

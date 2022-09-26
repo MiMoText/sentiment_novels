@@ -1,5 +1,6 @@
 year=1798
 title=Zabeth, ou la Victime de l'ambition
+bgrf=99.105
 text=ZABETH, OU LA VICTIME DE L'AMBITION. 
 M. de Saint-Silvain, sans être gentilhomme, jouissait de toutes les prérogatives de la noblesse. Il était entré très-jeune au service, qui n'est pas, il s'en faut de beaucoup, l'école des mœurs. Il avait aimé un peu le jeu, un peu la table, beaucoup les femmes, et n'avait pas toujours eu pour les choisir un goût très-délicat. Celle qui lui accordait ses faveurs était toujours à ses yeux, jolie, bien faite, spirituelle. Cette manière de voir paraissait étrange aux gens qui le connaissaient; car il n'était pas sans esprit, et avait même reçu une très-bonne éducation: mais il était faible, et se laissait volontiers subjuguer par la femme avec laquelle il vivait. 
 M. de Saint-Silvain, avant son mariage, ne pouvait pas citer, parmi ses conquêtes, une seule femme que l'on pût avouer. Son inclination le portait à n'avoir que des grisettes. Ses affaires le forcèrent de prendre une femme. Il épousa mademoiselle de Fermon l'aînée, qui joignait à toutes les grâces de son sexe un très-grand attachement pour son mari, qui se retira du service, et fut vivre dans sa terre. 

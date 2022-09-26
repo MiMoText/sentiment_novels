@@ -1,5 +1,6 @@
 year=1771
 title=L'An deux mille quatre cent quarante, rêve s'il en fut jamais
+bgrf=71.36
 text=ÉPÎTRE DÉDICATOIRE À L'ANNÉE DEUX MILLE QUATRE CENT QUARANTE. 
 Auguste et respectable Année, qui dois amener la félicité sur la terre; toi, hélas ? que je n'ai vue qu'en songe, quand tu viendras à jaillir du sein de l'éternité, ceux qui verront ton soleil fouleront aux pieds mes cendres et celles de trente générations, successivement éteintes et disparues dans le profond abîme de la mort. Les Rois qui sont aujourd'hui assis sur des trônes ne seront plus; leur postérité ne sera plus : et toi, tu jugeras et ces Monarques décédés et les écrivains qui vivaient soumis à leur puissance. Les noms des amis, des défenseurs de l'humanité, brilleront honorés : leur gloire sera pure et radieuse. Mais cette vile populace de Rois qui auront, en tout sens, tourmenté l'espèce humaine, plus enfoncés encore dans l'oubli que dans la région des morts, ne s'échapperont de l'opprobre qu'à la faveur du néant. 
 La pensée survit à l'homme; et voilà son plus glorieux appanage! La pensée s'élève de son tombeau, prend un corps durable, immortel; et tandis que les tonnerres du despotisme tombent et s'éteignent, la plume d'un écrivain franchit l'intervalle des temps, absout, ou punit les maîtres de l'univers. 

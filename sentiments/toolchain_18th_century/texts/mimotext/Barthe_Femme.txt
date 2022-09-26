@@ -1,5 +1,6 @@
 year=1769
 title=La jolie femme ou la femme du jour
+bgrf=69.15
 text=LA JOLIE FEMME, OU LA FEMME DU JOUR. 
 CHAPITRE PREMIER. 
 Le plus court de tous. 

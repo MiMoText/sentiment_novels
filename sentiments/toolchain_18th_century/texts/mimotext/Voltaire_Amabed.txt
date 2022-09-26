@@ -1,5 +1,6 @@
 year=1769
 title=Les Lettres d'Amabed
+bgrf=69.69
 text=PREMIÈRE LETTRE D'AMABED À SHASTASID, GRAND BRAME DE MADURÉ. 
 À Bénarès, le second du mois de la souris, l'an du renouvellement du monde 115652. 
 Lumière de mon âme, père de mes pensées, toi qui conduis les hommes dans les voies de l'Éternel, à toi, savant Shastasid, respect et tendresse. 

@@ -1,5 +1,6 @@
 year=1777
 title=Pensées philosophiques
+bgrf=77.33
 text=[Pensees Philosophiques] J'écris de Dieu; je compte sur peu de lecteurs, et n'aspire qu'à quelques suffrages. Si ces pensées ne plaisent à personne, elles pourront n'être que mauvaises; mais je les tiens pour détestables, si elles plaisent à tout le monde. 
 1. 
 On déclame sans fin contre les passions; on leur impute toutes les peines de l'homme, et l'on oublie qu'elles sont aussi la source de tous ses plaisirs. C'est dans sa constitution, un élément dont on ne peut dire ni trop de bien ni trop de mal. Mais ce qui me donne de l'humeur, c'est qu'on ne les regarde jamais que du mauvais côté. On croirait faire injure à la raison, si l'on disait un mot en faveur de ses rivales. Cependant il n'y a que les passions et les grandes passions qui puissent élever l'âme aux grandes choses. Sans elles, plus de sublime, soit dans les mœurs, soit dans les ouvrages; les beaux arts retournent en enfance, et la vertu devient minutieuse. Ü. 

@@ -1,5 +1,6 @@
 year=1800
 title=Monsieur de Kinglin, ou la prescience
+bgrf=00.122
 text=MONSIEUR DE KINGLIN, OU LA PRESCIENCE. 
 DEUXIEME NOUVELLE. 
 L'avenir est au présent un peu moins que le passé, qui laisse au moins des souvenirs. 

@@ -1,5 +1,6 @@
 year=1774
 title=Le taureau blanc
+bgrf=74.33
 text=CHAPITRE I. 
 COMMENT LA PRINCESSE AMASIDE RENCONTRE UN BŒUF. 
 La jeune princesse Amaside, fille d'Amasis, roi de Tanis en Égypte, se promenait sur le chemin de Péluse avec les dames de sa suite. Elle était plongée dans une tristesse profonde; les larmes coulaient de ses beaux yeux. On sait quel était le sujet de sa douleur, et combien elle craignait de déplaire au roi son père par sa douleur même. Le vieillard Mambrès, ancien mage et eunuque des pharaons, était auprès d'elle, et ne la quittait presque jamais. Il la vit naître, il l'éleva, il lui enseigna tout ce qu'il est permis à une belle princesse de savoir des sciences de l'Égypte. 

@@ -1,5 +1,6 @@
 year=1790
 title=Les dévotions de Mme de Bethzamooth et les Pieuses facéties de M. de Saint-Ognon
+bgrf=89.58
 text=LES DÉVOTIONS DE MADAME DE BETHZAMOOTH ET LES PIEUSES FACÉTIES DE MONSIEUR DE SAINT-OGNON Veut-on rendre une femme raisonnable ? Il faut coucher avec elle. --- Veut-on rendre un homme heureux et content ? Il faut le faire cocu. --- C'est tout le sujet de l'histoire que nous allons raconter. 
 Mme de Bethzamooth sortait de l'église Saint-Sulpice, fort édifiée d'un sermon qu'avait prêché M. l'abbé du Trognon, lequel avait embrassé le métier de prédicateur sur ce que M. du Trognon son père et Mme du Trognon sa mère lui avaient dit que la chaire pourrait le mener à un évêché, lui citant souvent, en preuve de la parole sainte, Massillon, Fénelon, Fléchier, Soanen et M. l'abbé de Beauvais, jadis évêque de Senez. 
 En entrant dans son carrosse, Mme de Bethzamooth aperçut au milieu de la rue et dans les boues, exposé au froid et à la neige, M. de Saint-Ognon. C'était un beau jeune homme, d'un visage modeste et intéressant; il était arrêté par un embarras de voitures, si grande était ce jour-là la presse à la foire, à la Comédie-Française et à l'église Saint-Sulpice. 

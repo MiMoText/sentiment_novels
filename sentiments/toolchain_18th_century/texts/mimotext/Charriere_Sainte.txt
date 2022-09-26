@@ -1,5 +1,6 @@
 year=1799
 title=Sainte Anne
+bgrf=98.35
 text=SAINTE ANNE. 
 E lle ne sait pas lire Figurez vous qu'elle ne sait pas lire dirent toutes à la fois Mademoiselle de Rhedon, Madame de Rieux, Mademoiselle de Kerber à Ste. Anne, au moment où Mademoiselle d'Estival sortait de l'avenue du château de Missillac, et prenant un sentier au travers d'une prairie, retournait à la métairie qu'elle habitait. 
 Ste. Anne pressé par sa mère, avait fui de France pendant le règne de Robespierre. Comme il avait toujours vécu en pays neutre, il n'eut pas de peine à pouvoir rentrer, et revint chez lui le 2 juillet 1797, à 9 heures du matin. 

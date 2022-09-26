@@ -1,5 +1,6 @@
 year=1752
 title=Ma-Gakou histoire japonnoise
+bgrf=52.18
 text=EPITRE DEDICATOIRE A l'Ombre de Lamekis, Voyageur Egyptien. 
 Ombre trois fois illustre du docte Lamekis. 
 C'EST à vos voyages extravagansque je dois, l'amour que j'ai pour la Folie, cette Histoire est l'essai d'une imagination qui aspire à devenir aussi déréglée que la vôtre; puissent l'étude et le temps fondés sur le oût d'un Siécle éclairé, me mériter la vingt-septiéme partie des suffrages dont vous jouissez dans le souterrain Littératre que votre Ombre embellit encore aujourd'hui. 

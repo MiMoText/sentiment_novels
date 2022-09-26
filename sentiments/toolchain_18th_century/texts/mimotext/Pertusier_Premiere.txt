@@ -1,5 +1,6 @@
 year=1800
 title=Mes premières étourderies
+bgrf=00.117
 text=MES PREMIÈRES ÉTOURDERIES, OU QUELQUES CHAPITRES DE MA VIE EN ATTENDANT MIEUX. 
 Paris, ce *** LETTRE PREMIÈRE. 
 Belony à d'Arinville. 
