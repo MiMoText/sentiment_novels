@@ -1,5 +1,6 @@
 year=0
 title=Les rêveries du promeneur solitaire
+bgrf=0
 text=LES RÊVERIES DU PROMENEUR SOLITAIRE. 
 PREMIERE PROMENADE Me voici donc seul sur la terre, n’ayant plus de frère, de prochain, d’ami, de société que moi-même. Le plus sociable et le plus aimant des humains en a été proscrit par un accord unanime. 
 Ils ont cherché dans les rafinement de leur haine quel tourment pouvait être le plus cruel à mon âme sensible, et ils ont brisé violemment tous les liens qui m’attachaient à eux. J’aurais aimé les hommes en dépit d’eux-mêmes. Ils n’ont pu qu’en cessant de l’être se dérober à mon affection. Les voilà donc étrangers, inconnus, nuls enfin pour moi puisqu’ils l’ont voulu. Mais moi, détaché d’eux et de tout, que suis-je moi-même? Voilà ce qui me reste à chercher. Malheureusement cette recherche doit être précédée d’un coup-d’œil sur ma position. C’est une idée par laquelle il faut nécessairement que je passe, pour arriver d’eux à moi. 
