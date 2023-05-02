@@ -1,5 +1,6 @@
 year=0
 title=Adèle et D'Abligny, par Pigault-Lebrun
+bgrf=00.119
 text=ADÈLE ET D'ABLIGNY. 
 MONSIEUR d'Alleville avait servi trente ans avec distinction. Lieutenantcolonel du régiment de Picardie, il se signala à la bataille de Laufeldt, et obtint, avec une retraite avantageuse, le grade de brigadier des armées du roi. Il revint à Amiens, sa ville natale, jouir de la considération des honnêtes gens, et manger une pension de mille écus, donnée en indemnité d'une fortune assez considérable, entièrement dissipée au service. 
 Recherché par la meilleure société d'Amiens, monsieur d'Alleville se livra aux plaisirs aimables, dont un officier français ne perd jamais le goût, même dans un âge avancé. 
