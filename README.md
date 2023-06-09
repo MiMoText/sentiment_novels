@@ -46,5 +46,5 @@ Software in this repo, unless specified otherwise, is made available under the M
 
 ## Citation suggestion
 
-Sentiment Analysis on Eighteenth-Century French Novels (1750-1800), edited by Julia Röttgermann and Johanna Konstanciak, MiMoText, Trier Center for Digital Humanities, 2022. URL: https://github.com/MiMoText/sentiment_novels.
+Sentiment Analysis on Eighteenth-Century French Novels (1751-1800), edited by Julia Röttgermann and Johanna Konstanciak, MiMoText, Trier Center for Digital Humanities, 2022. URL: https://github.com/MiMoText/sentiment_novels.
 
