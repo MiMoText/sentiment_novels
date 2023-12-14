@@ -7,7 +7,6 @@ Sentiment analysis on french novels from the roman18 corpus in the context of th
 
 The roman18-corpus of about 100-200 eighteenth-century French novels in full text is analysed via two different Sentiment Analysis pipelines: [textblob fr](https://pypi.org/project/textblob-fr/) and [A Sentiment Analysis Tool Chain for 18th Century Periodical](https://gitlab.uni.lu/melusina/vdhd/koncar_sentiment).
 
-
 ## An example
 ![Sentiment Analysis](https://raw.githubusercontent.com/MiMoText/sentiment_novels/main/img/sentiments_voltaire_candide.PNG?raw=true)
 Excerpt of chapter two of Voltaire's novel Candide (1759) tagged with sentiments provided by "[A Sentiment Analysis Tool Chain for 18th Century Periodical](https://gitlab.uni.lu/melusina/vdhd/koncar_sentiment)"
@@ -39,10 +38,13 @@ The Sentiment Tool Chain for 18th Century Periodicals allows to extract the sent
 
 Voltaire's novel Candide (1759) - sentiment scores per text progress. 
 
+## Reference for the Sentiment Tool Chain for 18th Century Periodicals
+
+Koncar, P., Druml, L., Ertler, K.-D., Fuchs, A., Geiger, B. C., Glatz, C., Hobisch, E., Mayer, P., Saric, S., Scholger, M. & Voelkl, Y. (2021) A Sentiment Tool Chain for Languages of the 18th Century. https://github.com/philkon/sentiment-tool-chain
+
 ## Licence
 
 Software in this repo, unless specified otherwise, is made available under the MIT license. We don’t claim any copyright or other rights on the metadata. If you use our scripts or results, for example in research or teaching, please reference this repository using the citation suggestion below.
-
 
 ## Citation suggestion
 
